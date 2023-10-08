@@ -1,0 +1,122 @@
+/* ! start page */
+header {
+	padding-top: 75px;
+}
+.picture {
+	margin: 0 auto;
+	width: 350px;
+}
+img {
+	max-width: 100%;
+}
+.start {
+	margin: 0 auto;
+	padding-top: 50px;
+	width: 100px;
+}
+.start a {
+	color: orange;
+}
+/* ! all img settings */
+.picture1,
+.answer1,
+.right1,
+.wrong1 {
+	margin: 0 auto;
+	width: 300px;
+}
+.picture2,
+.answer2,
+.right2,
+.wrong2 {
+	margin: 0 auto;
+	width: 300px;
+}
+.picture3,
+.answer3,
+.right3,
+.wrong3 {
+	margin: 0 auto;
+	width: 300px;
+}
+.picture4,
+.answer4,
+.right4,
+.wrong4 {
+	margin: 0 auto;
+	width: 300px;
+}
+.picture5,
+.winner {
+	margin: 0 auto;
+	width: 300px;
+}
+/* ! all pages */
+.question1 p,
+.question2 p,
+.question3 p,
+.question4 p {
+	padding-top: 35px;
+	width: 350px;
+	margin: 0 auto;
+	color: skyblue;
+	font-size: 25px;
+}
+.answer1 div,
+.answer2 div,
+.answer3 div,
+.answer4 div {
+	padding-top: 30px;
+	display: inline-block;
+	margin: 0 0 0 50px;
+	color: rgba(135, 207, 235, 0.397);
+	font-size: 20px;
+}
+.winner div {
+	padding-top: 30px;
+	display: inline-block;
+	margin: 0 0 0 50px;
+	color: rgba(135, 207, 235, 0.397);
+	font-size: 20px;
+}
+.winner div a {
+	padding: 0 50px;
+}
+/* ! right1 - wrong1 pages */
+.next-right1,
+.back-wrong1 {
+	padding: 20px 0 0 0;
+	margin: 0 auto;
+	width: 100px;
+	font-size: 20px;
+}
+.next-right2,
+.back-wrong2 {
+	padding: 20px 0 0 0;
+	margin: 0 auto;
+	width: 100px;
+	font-size: 20px;
+}
+.next-right3,
+.back-wrong3 {
+	padding: 20px 0 0 0;
+	margin: 0 auto;
+	width: 100px;
+	font-size: 20px;
+}
+.next-right4,
+.back-wrong4 {
+	padding: 20px 0 0 0;
+	margin: 0 auto;
+	width: 100px;
+	font-size: 20px;
+}
+h1 {
+	width: 350px;
+	margin: 0 auto;
+	color: orange;
+	font-size: 50px;
+}
+.picture5 {
+	padding-top: 20px;
+}
